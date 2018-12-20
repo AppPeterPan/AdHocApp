@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[App Link](https://www.dropbox.com/s/7d13ds1ez7ey1na/manifest.plist?dl=1)
+[App Link](https://apppeterpan.github.io/AdHocApp/manifest.plist)
 
 
 You can use the [editor on GitHub](https://github.com/AppPeterPan/AdHocApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
